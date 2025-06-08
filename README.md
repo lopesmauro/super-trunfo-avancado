@@ -37,7 +37,7 @@ Este programa implementa a lógica avançada de comparação de cartas de paíse
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/super-trunfo-avancado.git
+git clone https://github.com/lopesmauro/super-trunfo-avancado.git
 cd super-trunfo-avancado
 ```
 
